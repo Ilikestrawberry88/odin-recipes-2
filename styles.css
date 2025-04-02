@@ -1,0 +1,27 @@
+/* styles.css */
+html {
+  box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
+h1 {
+  text-align: center;
+  color: darkorange;
+}
+h2 {
+  text-align: center;;
+  color: rgb(117, 71, 56);
+}
+
+ul {
+  list-style-type: none;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  text-align: center;
+}
